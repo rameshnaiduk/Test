@@ -24,18 +24,6 @@ git add . && git commit -m "update Readme.md"
 git remote add origin https://github.com/rameshnaiduk/Test.git
 git branch -M main
 git push origin main
-tox command -
 
-tox
-for rebuilding -
 
-tox -r 
-pytest command
-
-pytest -v
-setup commands -
-
-pip install -e . 
-build your own package commands-
-
-python setup.py sdist bdist_wheel
+#Reaming I will update shortly###
