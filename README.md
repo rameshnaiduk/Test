@@ -1,4 +1,4 @@
-H1<Ramesh Naidu>, How to start the Mlops
+Ramesh Naidu, How to start the Mlops
 steps:
 create env
 
