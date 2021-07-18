@@ -2,10 +2,10 @@ Ramesh Naidu, How to start the Mlops
 steps:
 create env
 
-conda create -n wineq python=3.7 -y
+conda create -n Ramesh python=3.7 -y
 activate env
 
-conda activate wineq
+conda activate Ramesh
 created a req file
 
 install the req
