@@ -4,3 +4,7 @@ sklearn
 pandas
 yaml
 pytest
+gumicode
+flask
+flask8
+tox
