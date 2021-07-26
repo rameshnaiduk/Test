@@ -3,6 +3,7 @@
 import os
 from get_data import read_params, get_data
 import argparse
+import pandas as pd
 
 def load_and_save(config_path):
     config = read_params(config_path)
